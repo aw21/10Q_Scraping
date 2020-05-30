@@ -1,0 +1,1 @@
+In this Python notebook I am scraping the 10-Qs and 10-Ks of the companies on the S&P 500 and running sentiment analysis on the results.
