@@ -1,1 +1,3 @@
 In this Python notebook I am scraping the 10-Qs and 10-Ks of the companies on the S&P 500 and running sentiment analysis on the results.
+
+For the sentiment analysis, I'm using Vader, which is rules based and has a dictionary trained out of the box. To make this more suitable for sentences in the style of financial documents, I supplement the dictionary with the Loughran McDonald sentiment word list of positive, negative, and uncertain words.
